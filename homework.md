@@ -15,3 +15,5 @@
 - .gitignore
 - create a remote repository
 - push all changes to remote repository
+
+- play with route and route extensions e.g /hello, /hello/2

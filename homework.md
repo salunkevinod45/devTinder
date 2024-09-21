@@ -9,3 +9,9 @@
 - what are dependencies
 - what is user of '-g' in npm install 
 - Difference between caret and tilde symbol (^ and ~)
+
+
+- git init
+- .gitignore
+- create a remote repository
+- push all changes to remote repository

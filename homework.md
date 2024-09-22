@@ -18,3 +18,5 @@
 
 - play with route and route extensions e.g /hello, /hello/2,/xyz
 - order of the routes matter a lot
+
+- install postman app and make a workspace/collection > test api call

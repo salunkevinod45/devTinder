@@ -20,3 +20,4 @@
 - order of the routes matter a lot
 
 - install postman app and make a workspace/collection > test api call
+- write logic to handle GET,POST,PUT,DELETE,PATCH methods and test it in postman

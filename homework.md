@@ -26,3 +26,8 @@
 - Use of regx in routes /a/,/.*fly$/
 - Reading the query params in the routes
 - Reading the dynamic routes
+
+- Multiple Route Handlers -Play with the code
+- next()
+- next function and error along with res.send()
+- app.use('/user',rh1,rh2,[rh3,rh4],rh5)

@@ -31,3 +31,10 @@
 - next()
 - next function and error along with res.send()
 - app.use('/user',rh1,rh2,[rh3,rh4],rh5)
+
+- What is middleware ? why we need to use middleware?
+- How request handles in express js behind the scenes 
+
+- Difference between app.all and app.use?
+- write a auth middleware for all admin requests
+- write a auth middleware for all user requests except login request
